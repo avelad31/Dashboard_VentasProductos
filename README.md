@@ -1,7 +1,8 @@
-## Dashboard_VentasProductos
+En este proyecto, se llevó a cabo la limpieza y normalización de los datos para poder establecer relaciones entre las tablas. 
+Además, se realizaron cálculos utilizando las funciones DAX de Power BI, permitiendo graficar los datos de manera óptima y comprensible para el usuario final.
+
 ##### Link: https://app.powerbi.com/view?r=eyJrIjoiYmE5MDIwZjQtZmVlNy00NGVjLWFjNzctOTFmNWRlZTkxZjAyIiwidCI6IjFlYmE0NDNmLTIzZTUtNDUzNC05MGQxLTA5NzZhYWJlODZhYyIsImMiOjR9
 
-Bienvenido a la carpeta del Dashboard de Venta de Productos Informaticos
 ### Pestaña 1: Overview
 
 ![Overview](./Dashboard_VentasInformaticas/P1_Overview.png)
